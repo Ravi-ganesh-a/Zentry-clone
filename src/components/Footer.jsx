@@ -1,9 +1,9 @@
-import { FaDiscord, FaTwitter, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaTwitter, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import React from 'react'
 const links = [
-    { href: 'https://discord.com', icon: <FaDiscord /> },
+    { href: 'https://github.com/Ravi-ganesh-a/Zentry-clone', icon: <FaGithub /> },
+    { href: 'https://www.linkedin.com/in/ravi-ganesh-a-a135002a8', icon: <FaLinkedin /> },
     { href: 'https://twitter.com', icon: <FaTwitter /> },
-    { href: 'https://github.com', icon: <FaGithub /> },
     { href: 'https://instagram.com', icon: <FaInstagram /> },
 ]
 
